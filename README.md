@@ -1,9 +1,14 @@
-Carta de presentación
+# Carta de presentación 
 
-Nombre: Tiago
+## Información personal
+***Nombre y apellido***: Tiago Milesi
 
-Apellido: Milesi
+***Legajo***: 209.086-7
 
-![image](https://github.com/user-attachments/assets/3b295d8c-b4d9-48ef-a7c2-5c3f498e0864)
+## Sobre mi
+Tengo 21 años, me gusta hacer y ver deportes, y tambien soy muy amiguero
+
+![image](https://github.com/user-attachments/assets/f08aaaa6-df98-4327-accc-d089ff7c1466)
+
 
 
